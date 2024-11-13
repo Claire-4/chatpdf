@@ -27,7 +27,7 @@ ChatPDF是一个交互式工具，允许您上传PDF文件并根据其中的内�
 ### 步骤
 #### 克隆存储库
 ```
-git clone git@github.com:jhrsya/chatpdf.git
+git clone git@github.com:Claire-4/chatpdf.git
 ```
 #### 导航至项目目录
 ```
