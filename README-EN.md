@@ -30,7 +30,7 @@ ChatPDF is an interactive tool that allows you to upload PDF files and ask quest
 
 #### Clone the Repository
 ```
-git clone git@github.com:jhrsya/chatpdf.git
+git clone git@github.com:Claire-4/chatpdf.git
 ```
 
 #### Navigate to the Project Directory
